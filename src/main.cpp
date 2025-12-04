@@ -27,7 +27,7 @@ void setup() {
 
 void loop() {
     // Example sensor values (replace later with real data)
-    int batteryLevel = 90;      // %
+    int batteryLevel = 70;      // %
     float voltage = 3.92;       // V
     float temperature = 28.4;   // °C
 
